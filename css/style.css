@@ -1,0 +1,30 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.margin{
+    margin-left: 40%;
+}
+.logo{
+    width: 250px;
+}
+.nike-shoe{
+    width: 80%;
+}
+.background-color{
+    background-color: #FFF9F4;
+}
+.title{
+    font-weight: 700;
+    color: #363958;
+}
+h1 .text-color{
+    font-size: 40px;
+}
+.image-size{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;    
+}
+.round{
+    border-radius: 10px;
+}
